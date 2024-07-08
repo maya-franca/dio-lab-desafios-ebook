@@ -1,8 +1,10 @@
 <p align="center">
-    <a href="outputs/ebook.pdf"><img src="assets/capa.png" style="width: 50%"></a>
+    <a href="https://github.com/maya-franca/dio-lab-desafios-ebook/raw/main/outputs/ebook.pdf">
+        <img src="assets/capa.png" style="width: 50%">
+    </a>
 </p>
 
-<p align="center"><a href="outputs/ebook.pdf">Clique aqui para acessar</a></p>
+<p align="center"><a href="https://github.com/maya-franca/dio-lab-desafios-ebook/raw/main/outputs/ebook.pdf">Clique aqui para ler</a></p>
 
 # E-book: Guia Prático de Web Design integrado à IAs para iniciantes
 
