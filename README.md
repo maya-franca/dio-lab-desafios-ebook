@@ -1,6 +1,8 @@
 <p align="center">
-    <img scr="capa">
-<p>
+    <a href="outputs/ebook.pdf"><img src="assets/capa.png" style="width: 50%"></a>
+</p>
+
+<p align="center"><a href="outputs/ebook.pdf">Clique aqui para acessar</a></p>
 
 # E-book: Guia Prático de Web Design integrado à IAs para iniciantes
 
