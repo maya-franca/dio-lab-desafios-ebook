@@ -8,16 +8,18 @@
 
 # E-book: Guia Prático de Web Design integrado à IAs para iniciantes
 
-Ebook criado para um desafio das aulas do bootcamp Fundamentos de IA para Devs, em parceria com o Santander. O desafio foi criar um ebook com auxílio de IAs. 
+Ebook criado para um desafio das aulas do bootcamp Fundamentos de IA para Devs, da plataforma DIO em parceria com o Santander. O desafio foi criar um ebook com auxílio de IAs. 
 
 ## Ferramentas de IA utilizadas 
 - ChatGPT: Geração do conteúdo de texto. 
 
-## Outras ferramentas utilizadas 
-- Adobe Illustrator: desenho de capa e contracapa; 
+## Outras ferramentas utilizadas (sem IA) 
+- Adobe Illustrator: Desenho de capa e contracapa, edição de ilustrações do banco de imagens Freepik; 
 - Adobe InDesign: Diagramação do ebook. 
 
 ## A criação 
+
+O conteúdo em texto do e-book foi gerado pelo ChatGPT, como proposto pela aula, e depois editado e revisado. 
 
 ### Prompts utilizados 
 
